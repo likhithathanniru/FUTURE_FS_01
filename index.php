@@ -45,7 +45,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 <a href="/">MY PORTFOLIO</a>
             </div>
             <div class="right">
-                <a href="http://github.com" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/likhithathanniru" rel="noopener noreferrer">
                 <i class="fa-brands fa-github"></i>
                 <span> GitHub </span></a>
                 <a href="https://www.linkedin.com/in/thanniru-likhitha-706b01348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><i class="fa-brands fa-linkedin"></i>
